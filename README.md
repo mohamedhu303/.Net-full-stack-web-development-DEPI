@@ -1,8 +1,8 @@
 <body>
 
-<h1>ITI Summer Internship - PHP Full Stack Developer</h1>
+<h1>Digital Pioneers of Egypt Scholarship (DEPI)</h1>
 
-<p>Welcome to the repository for my ITI Summer Internship as a PHP Full Stack Developer. This repository contains all the tasks, projects, and assignments completed during the internship, covering a range of web development technologies.</p>
+<p>Welcome to the repository for my Digital Pioneers of Egypt Scholarship as a .Net Full Stack Developer. This repository contains all the tasks, projects, and assignments completed during the Scholarship, covering a range of web development technologies.</p>
 
 <h2>Table of Contents</h2>
 <ul>
@@ -14,7 +14,7 @@
 
 <h2 id="introduction">Introduction</h2>
 <p>This repository is a comprehensive collection of my work during the DEPI Summer Internship program. The internship focuses on full-stack web development, with an emphasis on .Net and its associated technologies.</p>
-<p>The internship runs from September to October, totaling 220 hours, and covers the following areas:</p>
+<p>The internship runs from April to October, totaling 220 hours, and covers the following areas:</p>
 <ul>
     <li>30 hours of Microsoft SQL server</li>
     <li>30 hours of HTML5, CSS, and JavaScript</li>
