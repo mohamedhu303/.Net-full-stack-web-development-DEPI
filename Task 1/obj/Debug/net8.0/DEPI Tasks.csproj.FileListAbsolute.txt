@@ -1,0 +1,14 @@
+Y:\C#\DEPI Tasks\bin\Debug\net8.0\DEPI Tasks.exe
+Y:\C#\DEPI Tasks\bin\Debug\net8.0\DEPI Tasks.deps.json
+Y:\C#\DEPI Tasks\bin\Debug\net8.0\DEPI Tasks.runtimeconfig.json
+Y:\C#\DEPI Tasks\bin\Debug\net8.0\DEPI Tasks.dll
+Y:\C#\DEPI Tasks\bin\Debug\net8.0\DEPI Tasks.pdb
+Y:\C#\DEPI Tasks\obj\Debug\net8.0\DEPI Tasks.GeneratedMSBuildEditorConfig.editorconfig
+Y:\C#\DEPI Tasks\obj\Debug\net8.0\DEPI Tasks.AssemblyInfoInputs.cache
+Y:\C#\DEPI Tasks\obj\Debug\net8.0\DEPI Tasks.AssemblyInfo.cs
+Y:\C#\DEPI Tasks\obj\Debug\net8.0\DEPI Tasks.csproj.CoreCompileInputs.cache
+Y:\C#\DEPI Tasks\obj\Debug\net8.0\DEPI Tasks.dll
+Y:\C#\DEPI Tasks\obj\Debug\net8.0\refint\DEPI Tasks.dll
+Y:\C#\DEPI Tasks\obj\Debug\net8.0\DEPI Tasks.pdb
+Y:\C#\DEPI Tasks\obj\Debug\net8.0\DEPI Tasks.genruntimeconfig.cache
+Y:\C#\DEPI Tasks\obj\Debug\net8.0\ref\DEPI Tasks.dll

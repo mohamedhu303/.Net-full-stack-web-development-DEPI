@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35017.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stract for Students", "Stract for Students.csproj", "{F4DCC2C3-CD64-4752-9816-2A3AA72BFDFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4DCC2C3-CD64-4752-9816-2A3AA72BFDFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DCC2C3-CD64-4752-9816-2A3AA72BFDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DCC2C3-CD64-4752-9816-2A3AA72BFDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DCC2C3-CD64-4752-9816-2A3AA72BFDFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41F69730-4B93-4E0A-9C82-FE0374AB799C}
+	EndGlobalSection
+EndGlobal

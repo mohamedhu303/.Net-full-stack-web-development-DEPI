@@ -1,0 +1,14 @@
+Y:\C#\Stract for Students\obj\Debug\net8.0\Stract for Students.GeneratedMSBuildEditorConfig.editorconfig
+Y:\C#\Stract for Students\obj\Debug\net8.0\Stract for Students.AssemblyInfoInputs.cache
+Y:\C#\Stract for Students\obj\Debug\net8.0\Stract for Students.AssemblyInfo.cs
+Y:\C#\Stract for Students\obj\Debug\net8.0\Stract for Students.csproj.CoreCompileInputs.cache
+Y:\C#\Stract for Students\bin\Debug\net8.0\Stract for Students.exe
+Y:\C#\Stract for Students\bin\Debug\net8.0\Stract for Students.deps.json
+Y:\C#\Stract for Students\bin\Debug\net8.0\Stract for Students.runtimeconfig.json
+Y:\C#\Stract for Students\bin\Debug\net8.0\Stract for Students.dll
+Y:\C#\Stract for Students\bin\Debug\net8.0\Stract for Students.pdb
+Y:\C#\Stract for Students\obj\Debug\net8.0\Stract for Students.dll
+Y:\C#\Stract for Students\obj\Debug\net8.0\refint\Stract for Students.dll
+Y:\C#\Stract for Students\obj\Debug\net8.0\Stract for Students.pdb
+Y:\C#\Stract for Students\obj\Debug\net8.0\Stract for Students.genruntimeconfig.cache
+Y:\C#\Stract for Students\obj\Debug\net8.0\ref\Stract for Students.dll

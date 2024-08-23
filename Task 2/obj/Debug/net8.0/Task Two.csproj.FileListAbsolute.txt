@@ -1,0 +1,14 @@
+Y:\C#\Task Two\bin\Debug\net8.0\Task Two.exe
+Y:\C#\Task Two\bin\Debug\net8.0\Task Two.deps.json
+Y:\C#\Task Two\bin\Debug\net8.0\Task Two.runtimeconfig.json
+Y:\C#\Task Two\bin\Debug\net8.0\Task Two.dll
+Y:\C#\Task Two\bin\Debug\net8.0\Task Two.pdb
+Y:\C#\Task Two\obj\Debug\net8.0\Task Two.GeneratedMSBuildEditorConfig.editorconfig
+Y:\C#\Task Two\obj\Debug\net8.0\Task Two.AssemblyInfoInputs.cache
+Y:\C#\Task Two\obj\Debug\net8.0\Task Two.AssemblyInfo.cs
+Y:\C#\Task Two\obj\Debug\net8.0\Task Two.csproj.CoreCompileInputs.cache
+Y:\C#\Task Two\obj\Debug\net8.0\Task Two.dll
+Y:\C#\Task Two\obj\Debug\net8.0\refint\Task Two.dll
+Y:\C#\Task Two\obj\Debug\net8.0\Task Two.pdb
+Y:\C#\Task Two\obj\Debug\net8.0\Task Two.genruntimeconfig.cache
+Y:\C#\Task Two\obj\Debug\net8.0\ref\Task Two.dll
